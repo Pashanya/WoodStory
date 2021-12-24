@@ -1,0 +1,2 @@
+/// @description HURT
+hurt = false;
