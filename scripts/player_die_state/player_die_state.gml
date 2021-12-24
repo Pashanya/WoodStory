@@ -1,4 +1,3 @@
-///player_die_state();
 function player_die_state() {
 	//get input
 	
